@@ -17,3 +17,6 @@
 .cabal-sandbox
 cabal.sandbox.config
 dist/
+.stack-work
+TAGS
+stack.yaml
